@@ -1,0 +1,10 @@
+com\spring\professional\exam\tutorial\module01\question10\stereotypes\ds\TaxInformation.class
+com\spring\professional\exam\tutorial\module01\question10\stereotypes\components\TaxCalculationComponent.class
+com\spring\professional\exam\tutorial\module01\question10\stereotypes\controller\TaxInformationController.class
+com\spring\professional\exam\tutorial\module01\question10\stereotypes\ApplicationConfiguration.class
+com\spring\professional\exam\tutorial\module01\question10\stereotypes\dao\TaxRateDao.class
+com\spring\professional\exam\tutorial\module01\question10\stereotypes\ds\TaxRate.class
+com\spring\professional\exam\tutorial\module01\question10\stereotypes\ds\TaxCalculation.class
+com\spring\professional\exam\tutorial\module01\question10\stereotypes\service\TaxInformationService.class
+com\spring\professional\exam\tutorial\module01\question10\stereotypes\ds\Article.class
+com\spring\professional\exam\tutorial\module01\question10\stereotypes\Runner.class
