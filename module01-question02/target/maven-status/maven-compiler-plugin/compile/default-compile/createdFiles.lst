@@ -1,0 +1,15 @@
+com\spring\professional\exam\tutorial\module01\question02\common\renderer\style\FontStyleRenderer.class
+com\spring\professional\exam\tutorial\module01\question02\before\TextRenderer.class
+com\spring\professional\exam\tutorial\module01\question02\common\renderer\color\DefaultColorRenderer.class
+com\spring\professional\exam\tutorial\module01\question02\after\TextRenderer$TextRendererBuilder.class
+com\spring\professional\exam\tutorial\module01\question02\common\renderer\style\DefaultFontStyleRenderer.class
+com\spring\professional\exam\tutorial\module01\question02\common\renderer\Renderer.class
+com\spring\professional\exam\tutorial\module01\question02\common\renderer\weight\BoldFontWeightRenderer.class
+com\spring\professional\exam\tutorial\module01\question02\after\Runner.class
+com\spring\professional\exam\tutorial\module01\question02\after\TextRenderer.class
+com\spring\professional\exam\tutorial\module01\question02\common\renderer\weight\DefaultFontWeightRenderer.class
+com\spring\professional\exam\tutorial\module01\question02\common\renderer\style\ItalicStyleRenderer.class
+com\spring\professional\exam\tutorial\module01\question02\common\renderer\color\FontColorRenderer.class
+com\spring\professional\exam\tutorial\module01\question02\common\renderer\color\RedColorRenderer.class
+com\spring\professional\exam\tutorial\module01\question02\before\Runner.class
+com\spring\professional\exam\tutorial\module01\question02\common\renderer\weight\FontWeightRenderer.class
